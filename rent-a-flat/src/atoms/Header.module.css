@@ -1,0 +1,11 @@
+.headerContainer {
+    display: flex;
+    justify-content:left;
+    gap: 15rem;
+}
+
+.pointsContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}

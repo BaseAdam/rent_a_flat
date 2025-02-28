@@ -1,7 +1,9 @@
+import { Header } from "@/atoms/Header";
+
 export const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <Header />
         </div>
     );
 };
