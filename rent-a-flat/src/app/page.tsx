@@ -1,6 +1,6 @@
 import { Header } from "@/atoms/Header";
 
-export const Home = () => {
+const Home = () => {
     return (
         <div>
             <Header />
